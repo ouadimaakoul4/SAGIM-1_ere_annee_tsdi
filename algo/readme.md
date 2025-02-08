@@ -47,7 +47,7 @@ Bienvenue dans la première année de la formation de Technicien Spécialisé en
 - Comparaison des performances des algorithmes.
 
 ### 6️⃣ Initiation à la Programmation
-- Traduction d'algorithmes en langage de programmation (ex : Pseudocode, Python, C).
+- Traduction d'algorithmes en langage de programmation (ex : C).
 - Notions d'entrée/sortie et d'affichage des résultats.
 
 ---
