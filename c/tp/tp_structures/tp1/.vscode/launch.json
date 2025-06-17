@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/HP/Desktop/tp_c_sagim_2024_2025_boucle_testes/TSDI_1er/SAGIM-1_ere_annee_tsdi/c/tp/tp_structures/tp1",
+      "program": "c:/Users/HP/Desktop/tp_c_sagim_2024_2025_boucle_testes/TSDI_1er/SAGIM-1_ere_annee_tsdi/c/tp/tp_structures/tp1/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
